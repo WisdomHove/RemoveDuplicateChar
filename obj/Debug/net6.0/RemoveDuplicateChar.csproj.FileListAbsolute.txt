@@ -1,0 +1,15 @@
+C:\Users\User\RemoveDuplicateChar\bin\Debug\net6.0\RemoveDuplicateChar.exe
+C:\Users\User\RemoveDuplicateChar\bin\Debug\net6.0\RemoveDuplicateChar.deps.json
+C:\Users\User\RemoveDuplicateChar\bin\Debug\net6.0\RemoveDuplicateChar.runtimeconfig.json
+C:\Users\User\RemoveDuplicateChar\bin\Debug\net6.0\RemoveDuplicateChar.dll
+C:\Users\User\RemoveDuplicateChar\bin\Debug\net6.0\RemoveDuplicateChar.pdb
+C:\Users\User\RemoveDuplicateChar\obj\Debug\net6.0\RemoveDuplicateChar.csproj.AssemblyReference.cache
+C:\Users\User\RemoveDuplicateChar\obj\Debug\net6.0\RemoveDuplicateChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RemoveDuplicateChar\obj\Debug\net6.0\RemoveDuplicateChar.AssemblyInfoInputs.cache
+C:\Users\User\RemoveDuplicateChar\obj\Debug\net6.0\RemoveDuplicateChar.AssemblyInfo.cs
+C:\Users\User\RemoveDuplicateChar\obj\Debug\net6.0\RemoveDuplicateChar.csproj.CoreCompileInputs.cache
+C:\Users\User\RemoveDuplicateChar\obj\Debug\net6.0\RemoveDuplicateChar.dll
+C:\Users\User\RemoveDuplicateChar\obj\Debug\net6.0\refint\RemoveDuplicateChar.dll
+C:\Users\User\RemoveDuplicateChar\obj\Debug\net6.0\RemoveDuplicateChar.pdb
+C:\Users\User\RemoveDuplicateChar\obj\Debug\net6.0\RemoveDuplicateChar.genruntimeconfig.cache
+C:\Users\User\RemoveDuplicateChar\obj\Debug\net6.0\ref\RemoveDuplicateChar.dll
